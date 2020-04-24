@@ -1,0 +1,13 @@
+{
+  "name": "notification-bot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "telegraf": "^3.37.0"
+  },
+  "devDependencies": {}
+}
